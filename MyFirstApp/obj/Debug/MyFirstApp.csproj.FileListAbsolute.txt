@@ -1,0 +1,9 @@
+c:\users\guest\documents\visual studio 2015\Projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+c:\users\guest\documents\visual studio 2015\Projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+c:\users\guest\documents\visual studio 2015\Projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+c:\users\guest\documents\visual studio 2015\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+c:\users\guest\documents\visual studio 2015\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.Properties.Resources.resources
+c:\users\guest\documents\visual studio 2015\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.GenerateResource.Cache
+c:\users\guest\documents\visual studio 2015\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+c:\users\guest\documents\visual studio 2015\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
+c:\users\guest\documents\visual studio 2015\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.Form1.resources
